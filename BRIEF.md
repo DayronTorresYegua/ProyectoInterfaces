@@ -14,4 +14,9 @@
 
 ## Criterios de exito
 
+- José como empleado puede ver sus hoteles asignados
+- Juan como empleado puede ver las tareas y marcarlas como completada
+- Maria Jose como jefa puede crear un hotel
+- Javier como jefe puede acceder al panel de gestión de hotel y ver las diferentes funcionalidades
+
 ## Restricciones
