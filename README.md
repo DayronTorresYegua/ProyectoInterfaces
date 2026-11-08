@@ -15,3 +15,7 @@
 ## Prototipo
 
 - Enlace al [prototipo del proyecto](https://www.figma.com/proto/fXkjqkbQOoF6tKuPvWUBe0/Proyecto-interfaz-web?node-id=537-903&starting-point-node-id=537%3A903&show-proto-sidebar=1)
+
+## Orbita 2
+
+- Enlace a la [orbita 2](https://github.com/DayronTorresYegua/ProyectoInterfaces/blob/main/ORBITA2.md)
